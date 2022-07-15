@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+🤙Hey {},
 
 Welcome to {}
 
@@ -49,13 +49,13 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @CyniteBots
+A telegram channel automation bot by <a href=https://t.me/mkv_blasters><b>𝙼𝙺𝚅 𝙱𝙻𝙰𝚂𝚃𝙴𝚁𝚂</b></a>
 
-🔮Source Code : [Click Here](https://t.me/CyniteOfficial)
+🔮Source Code : [Click Here](https://t.me/themastertheblaster)
 
 💡Framework : [Pyrogram](docs.pyrogram.org)
 
 🔊Language : [Python](www.python.org)
 
-💠Developer : @CyniteOfficial
+💠Developer : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a>
     """
