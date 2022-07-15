@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-Created By <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a>
+💡 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 : ❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️
     """
 
     # Home Button
@@ -25,7 +25,7 @@ Created By <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รε
             InlineKeyboardButton("🔮ʜᴇʟᴘ🔮", callback_data="help"),
             InlineKeyboardButton("🍻 ᴀʙᴏᴜᴛ 🍻", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs🤖", url="https://t.me/CyniteBots")],
+        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs🤖", url="https://t.me/mkv_bots")],
     ]
 
     # Help Message
